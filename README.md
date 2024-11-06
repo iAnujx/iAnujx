@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iAnujx
-- 👀 I’m interested in Techy Stuff
-- 🌱 I’m  complete the basic webdevelopment language(html,css) and c language.
-- 💞️ I’m currently working to participant in the upcoming hackathon
+- 👀 I’m interested in Techy Stuff,upcoming technology and game also.
+- 🌱 Ask me about html,css,c.
+- 💞️ I’m currently working to participant in the upcoming hackathon.
 - 📫 How to reach me ...
 
 <!---
